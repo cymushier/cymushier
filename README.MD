@@ -2,8 +2,6 @@
 
 ## cymushier | mushierc | mushier
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
 <a href="mailto:mushierc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/mushierc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
